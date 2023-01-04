@@ -12,6 +12,7 @@ I'm a Computer Science Student and have been learning to code for 3 Years. Thoug
 <a href="https://www.github.com/j0giwa" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/j0giwa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
+![counter](https://[YourEndpoint].m.pipedream.net)
 
 ### Skills 
 <p align="left">
