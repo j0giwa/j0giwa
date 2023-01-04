@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Stundent
 -------------------------
 
-I'm a Computer Science Student and have been learning to code for 3 Years. Though most of my Repository are set to private.
+Hello and welcome to my GitHub profile!
+I'm a Computer Science Student and have been learning to code for 3 Years.
+Though most of my Repository are set to private.
+I have a passion for Linux and other open-source technologys.
 
 *   🌍  I'm based in Germany
 *   🧠  I'm learning Java, C/C++
