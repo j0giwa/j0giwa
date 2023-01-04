@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is j0giwa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonas
 ==============================================================================================================================
 
 Computer Science Stundent
 -------------------------
 
-I#m a Computer Science Student and have been learning to code for 3 Years. Though most of my Repository are set to private.
+I'm a Computer Science Student and have been learning to code for 3 Years. Though most of my Repository are set to private.
 
 *   🌍  I'm based in Germany
 *   🧠  I'm learning Java, C/C++
