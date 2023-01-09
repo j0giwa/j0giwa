@@ -1,4 +1,19 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonas
+# Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<summary>General Kenobi !!!
+  
+
+## collapsible markdown?
+
+<details>
+  <summary> Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<summary>
+<p>
+#### yes, even hidden code blocks!
+```python
+print("hello world!")
+```
+</p>
+</details>  
+ 
+My name is Jonas
 
 **`Digital Craftsman (Developer/Computer Science Stundent)`**
 
@@ -14,22 +29,22 @@ I have a passion for Linux and other open-source technologys.<br>
 #
 
 ### 🧰 Tools and Skills
-<p align="left">
+<p align="center">
   <!-- C -->
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img width="36" height="36" style="padding-right:10px;" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img width="36" height="36" style="padding:10px;" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </a>
   <!-- C++ -->
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img width="36" height="36" style="padding-right:10px;" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img width="36" height="36" style="padding:10px;" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   </a>
   <!-- Java -->
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img width="36" height="36" style="padding-right:10px;" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="36" height="36" style="padding:10px;" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img width="36" height="36" style="padding-right:10px;" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="36" height="36" style="padding:10px;" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
