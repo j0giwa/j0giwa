@@ -1,19 +1,4 @@
-# Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<summary>General Kenobi !!!
-  
-
-## collapsible markdown?
-
-<details>
-  <summary> Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<summary>
-<p>
-#### yes, even hidden code blocks!
-```python
-print("hello world!")
-```
-</p>
-</details>  
- 
-My name is Jonas
+# Hello There !![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jonas
 
 **`Digital Craftsman (Developer/Computer Science Stundent)`**
 
