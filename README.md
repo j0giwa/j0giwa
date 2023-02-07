@@ -1,6 +1,6 @@
 # Hello There !![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jonas
 
-**`Digital Craftsman (Developer/Computer Science Stundent)`**
+**`Digital Craftsman (Hobby Developer/Computer Science Stundent)`**
 
 Hello and welcome to my GitHub profile!<br>
 I'm a Computer Science Student and have been learning to code for 3 Years.<br>
