@@ -110,6 +110,6 @@ Though most of my Repository are set to private.<br>
   </details>
 </details>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=gotham" alt="j0giwa" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=dracula" alt="j0giwa" /> </p>
 
 ![Snake animation](https://github.com/j0giwa/j0giwa/blob/master/assets/github-contribution-grid-snake.svg)
