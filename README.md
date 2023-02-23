@@ -10,12 +10,6 @@ Though most of my Repository are set to private.<br>
 *   🧠  I'm learning Java, C/C++
 *   ❤️  I have a passion for open-source technologys
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=gotham" alt="j0giwa" /> </p>
-
-![Snake animation](https://github.com/j0giwa/j0giwa/blob/master/assets/github-contribution-grid-snake.svg)
-
 <details>
   <summary><samp><b>🧰 Tools and Skills</b></samp></summary>
   <br>
@@ -115,3 +109,7 @@ Though most of my Repository are set to private.<br>
     </p>
   </details>
 </details>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=gotham" alt="j0giwa" /> </p>
+
+![Snake animation](https://github.com/j0giwa/j0giwa/blob/master/assets/github-contribution-grid-snake.svg)
