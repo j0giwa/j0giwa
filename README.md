@@ -16,6 +16,7 @@ Though most of my Repository are set to private.<br>
   <details>
     <summary><samp><b>🖥️ Operating Systems</b></samp></summary>
     <p align="left">
+      <br>
       <!-- Linux (link leads to nowhere) -->
       <a href="" target="_blank" rel="noreferrer">
         <img width="36" height="36" style="margin: 1em;" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -37,7 +38,8 @@ Though most of my Repository are set to private.<br>
   <!-- Programming Languages -->
   <details>
     <summary><samp><b>🔢 Programming Languages</b></samp></summary>
-    <p>
+    <p align="left">
+      <br>
       <!-- C -->
       <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
         <img width="36" height="36" style="margin: 1em;" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -59,7 +61,8 @@ Though most of my Repository are set to private.<br>
   <!-- Web Techologys  -->
   <details>
     <summary><samp><b>🌐 Web Technologys</b></samp></summary>
-    <p>
+    <p align="left">
+      <br>
       <!-- HTML5 -->
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img width="36" height="36" style="margin: 1em;" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -85,7 +88,8 @@ Though most of my Repository are set to private.<br>
   <!-- Tools -->
   <details>
     <summary><samp><b>🪛 Tools</b></samp></summary>
-    <p>
+    <p align="left">
+      <br>
       <!-- LaTeX -->
       <a [href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
         <img width="36" height="36" style="margin: 1em;" alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
