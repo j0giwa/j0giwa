@@ -10,6 +10,12 @@ Though most of my Repository are set to private.<br>
 *   🧠  I'm learning Java, C/C++
 *   ❤️  I have a passion for open-source technologys
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=gotham" alt="j0giwa" />
+
+![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+
 <details>
   <summary><samp><b>🧰 Tools and Skills</b></samp></summary>
   <br>
