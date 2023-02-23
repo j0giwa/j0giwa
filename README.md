@@ -12,9 +12,9 @@ Though most of my Repository are set to private.<br>
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=gotham" alt="j0giwa" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=gotham" alt="j0giwa" /> </p>
 
-![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/j0giwa/j0giwa/blob/master/assets/github-contribution-grid-snake.svg)
 
 <details>
   <summary><samp><b>🧰 Tools and Skills</b></samp></summary>
