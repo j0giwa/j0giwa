@@ -11,10 +11,10 @@ Though most of my Repository are set to private.<br>
 *   ❤️  I have a passion for open-source technologys
 
 <details>
-  <summary><samp><b>🧰 Tools and Skills</b> - CLICK TO EXPAND</samp></summary>
+  <summary><samp><b>Tools and Skills 🧰</b> - CLICK TO EXPAND</samp></summary>
   <br>
   <details>
-    <summary><samp><b>🖥️ Operating Systems</b></samp></summary>
+    <summary><samp><b>Operating Systems 🖥️</b> - CLICK TO EXPAND</samp></summary>
     <p align="left">
       <br>
       <!-- Linux (link leads to nowhere) -->
@@ -37,7 +37,7 @@ Though most of my Repository are set to private.<br>
   </details>
   <!-- Programming Languages -->
   <details>
-    <summary><samp><b>🔢 Programming Languages</b></samp></summary>
+    <summary><samp><b>Programming Languages 🔢</b> - CLICK TO EXPAND</samp></summary>
     <p align="left">
       <br>
       <!-- C -->
@@ -60,7 +60,7 @@ Though most of my Repository are set to private.<br>
   </details>
   <!-- Web Techologys  -->
   <details>
-    <summary><samp><b>🌐 Web Technologys</b></samp></summary>
+    <summary><samp><b>Web Technologys 🌐</b> - CLICK TO EXPAND</samp></summary>
     <p align="left">
       <br>
       <!-- HTML5 -->
@@ -87,7 +87,7 @@ Though most of my Repository are set to private.<br>
   </details>
   <!-- Tools -->
   <details>
-    <summary><samp><b>🪛 Tools</b></samp></summary>
+    <summary><samp><b>Tools ⚒️</b> - CLICK TO EXPAND</samp></summary>
     <p align="left">
       <br>
       <!-- LaTeX -->
