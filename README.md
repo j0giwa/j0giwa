@@ -110,7 +110,7 @@ Though most of my Repository are set to private.<br>
   </details>
 </details>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=transparent" alt="j0giwa" /> </p>
+![j0giwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0giwa&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
