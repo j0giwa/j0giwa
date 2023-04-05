@@ -112,6 +112,6 @@ Though most of my Repository are set to private.<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&theme=transparent" alt="j0giwa" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0giwa&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/j0giwa/j0giwa/blob/master/assets/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/j0giwa/j0giwa/blob/master/assets/github-contribution-grid-snake.svg)
