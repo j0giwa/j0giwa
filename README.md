@@ -8,7 +8,6 @@ Though most of my Repository are set to private.<br>
 
 *   🌍  I'm based in Germany
 *   🧠  I'm learning Java, C/C++
-*   ❤️  I have a passion for open-source technologys
 
 <details>
   <summary><samp><b>Tools and Skills 🧰</b> - CLICK TO EXPAND</samp></summary>
