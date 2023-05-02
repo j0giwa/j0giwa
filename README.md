@@ -9,11 +9,13 @@ Though most of my Repository are set to private.<br>
 *   🌍  I'm based in Germany
 *   🧠  I'm learning Java, C/C++
 
+## Tools and Skills 🧰
 <details>
-  <summary><samp><b>Tools and Skills 🧰</b> - CLICK TO EXPAND</samp></summary>
-  <br>
+  <summary>CLICK TO EXPAND</summary>
+  
+  ### Operating Systems 🖥️
   <details>
-    <summary><samp><b>Operating Systems 🖥️</b> - CLICK TO EXPAND</samp></summary>
+    <summary>CLICK TO EXPAND</summary>
     <p align="left">
       <br>
       <!-- Linux (link leads to nowhere) -->
@@ -34,9 +36,10 @@ Though most of my Repository are set to private.<br>
       </a>
     </p>
   </details>
-  <!-- Programming Languages -->
+  
+  ### Programming Languages 🔢
   <details>
-    <summary><samp><b>Programming Languages 🔢</b> - CLICK TO EXPAND</samp></summary>
+    <summary>CLICK TO EXPAND</summary>
     <p align="left">
       <br>
       <!-- C -->
@@ -57,9 +60,10 @@ Though most of my Repository are set to private.<br>
       </a>
     </p>
   </details>
-  <!-- Web Techologys  -->
+  
+  ### Web Technologys 🌐
   <details>
-    <summary><samp><b>Web Technologys 🌐</b> - CLICK TO EXPAND</samp></summary>
+    <summary>CLICK TO EXPAND</summary>
     <p align="left">
       <br>
       <!-- HTML5 -->
@@ -84,9 +88,10 @@ Though most of my Repository are set to private.<br>
       </a>
     </p>
   </details>
-  <!-- Tools -->
+  
+  ### Other Tools ⚒️
   <details>
-    <summary><samp><b>Tools ⚒️</b> - CLICK TO EXPAND</samp></summary>
+    <summary>CLICK TO EXPAND</summary>
     <p align="left">
       <br>
       <!-- LaTeX -->
