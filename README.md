@@ -10,109 +10,27 @@ Though most of my Repository are set to private.<br>
 *   🧠  I'm learning Java, C/C++
 
 ## Tools and Skills 🧰
-<details>
-  <summary>CLICK TO EXPAND</summary>
-  
-  ### Operating Systems 🖥️
-  <details>
-    <summary>CLICK TO EXPAND</summary>
-    <p align="left">
-      <br>
-      <!-- Linux (link leads to nowhere) -->
-      <a href="" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      </a>
-      <!-- Debian -->
-      <a href="https://www.debian.org" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-      </a>
-      <!-- openSUSE -->
-      <a href="https://www.opensuse.org" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="openSUSE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" />
-      </a>
-      <!-- centOS -->
-      <a href="https://www.centos.org" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="centOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
-      </a>
-    </p>
-  </details>
-  
-  ### Programming Languages 🔢
-  <details>
-    <summary>CLICK TO EXPAND</summary>
-    <p align="left">
-      <br>
-      <!-- C -->
-      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-       </a>
-      <!-- C++ -->
-      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-      </a>
-      <!-- Java -->
-      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      </a>
-      <!-- Python -->
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img  width="36" height="36" style="margin: 1em;" alt="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" />
-      </a>
-    </p>
-  </details>
-  
-  ### Web Technologys 🌐
-  <details>
-    <summary>CLICK TO EXPAND</summary>
-    <p align="left">
-      <br>
-      <!-- HTML5 -->
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-      </a>
-      <!-- CSS3 -->
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      </a>
-      <!-- JavaScript -->
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      </a>
-      <!-- PHP -->
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-      </a>
-      <!-- MySQL -->
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      </a>
-    </p>
-  </details>
-  
-  ### Other Tools ⚒️
-  <details>
-    <summary>CLICK TO EXPAND</summary>
-    <p align="left">
-      <br>
-      <!-- LaTeX -->
-      <a [href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
-      </a>
-      <!-- Bash -->
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-      </a>
-      <!-- Vim -->
-      <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-      </a>
-      <!-- vscode -->
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img width="36" height="36" style="margin: 1em;" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      </a>
-    </p>
-  </details>
-</details>
+
+<p align="center" style="margin: 20;">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<!--<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>-->
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img width="36" height="36" style="margin: 1em;" alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></a>
+</p>
 
 | [![j0giwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![j0giwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0giwa&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0giwa&layout=compact&theme=default#gh-light-mode-only&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) |
 | ------------- | ------------- |
