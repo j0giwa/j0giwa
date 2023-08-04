@@ -33,6 +33,10 @@ Though most of my Repository are set to private.<br>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img width="36" height="36" style="margin: 1em;" alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></a>
 </p>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&include_all_commits=true&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0giwa&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
