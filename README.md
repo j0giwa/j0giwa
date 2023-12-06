@@ -8,7 +8,7 @@ Though most of my Repository are set to private.<br>
 
 *   🌍  I'm based in Germany
 *   🚀  I'm currently working on [Automomous Instantdocument System](http://github.com/j0giwa/automomous-instantdocument-system)
-*   🧠  I'm learning Java, C/C++
+*   🧠  I'm learning Java, C/C++, Rust
 
 ## Tools and Skills 🧰
 
