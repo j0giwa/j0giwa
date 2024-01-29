@@ -1,9 +1,6 @@
-# Hello There !![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![Header](assets/github-header-image.png)
 
-**`Digital Craftsman (Hobby Developer/Applied Computer Science Stundent)`**
-
-Hello and welcome to my GitHub profile!<br>
-I'm a Computer Science Student and have been learning to code for 3 Years.
+## About Me
 
 *   🌍  I'm based in Germany
 *   🚀  I'm currently working on ...
@@ -31,10 +28,6 @@ I'm a Computer Science Student and have been learning to code for 3 Years.
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img width="36" height="36" style="margin: 1em;" alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j0giwa&show_icons=true&include_all_commits=true&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0giwa&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
