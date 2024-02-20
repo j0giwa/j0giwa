@@ -3,7 +3,7 @@
 ## About Me
 
 *   🌍  I'm based in Germany
-*   🚀  I'm currently working on [Notetilus](https://github.com/j0giwa/notetilus)
+*   🚀  I'm currently working on [TnT (formaly Notiltus)](https://github.com/j0giwa/TnT)
 *   🧠  I'm learning Java, C/C++, Rust
 
 ## Tools and Skills 🧰
