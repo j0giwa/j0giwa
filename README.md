@@ -1,4 +1,4 @@
-![Header](assets/github-header-image.png)
+# Hello There
 
 ## About Me
 
