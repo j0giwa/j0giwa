@@ -4,7 +4,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [klimarallye](https://github.com/j0giwa/klimaralley)
+- 🔭 I’m currently working on [ComfyLoot](https://github.com/j0giwa/ComfyLoot)
 - 🌱 I’m currently learning **Java, C, Rust**
 <!-- - 👯 I’m looking to collaborate on **stuff** 
 <!-- - 🤝 I’m looking for help with **stuff** -->
